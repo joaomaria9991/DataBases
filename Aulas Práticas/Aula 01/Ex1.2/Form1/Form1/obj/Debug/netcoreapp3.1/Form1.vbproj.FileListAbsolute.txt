@@ -1,0 +1,15 @@
+Y:\BD - Base de Dados Aulas Praticas 2020-21\Aula 1\Ex1.2\Form1\Form1\obj\Debug\netcoreapp3.1\Form1.vbprojAssemblyReference.cache
+Y:\BD - Base de Dados Aulas Praticas 2020-21\Aula 1\Ex1.2\Form1\Form1\obj\Debug\netcoreapp3.1\Form1.Form1.resources
+Y:\BD - Base de Dados Aulas Praticas 2020-21\Aula 1\Ex1.2\Form1\Form1\obj\Debug\netcoreapp3.1\Form1.vbproj.GenerateResource.cache
+Y:\BD - Base de Dados Aulas Praticas 2020-21\Aula 1\Ex1.2\Form1\Form1\obj\Debug\netcoreapp3.1\Form1.AssemblyInfoInputs.cache
+Y:\BD - Base de Dados Aulas Praticas 2020-21\Aula 1\Ex1.2\Form1\Form1\obj\Debug\netcoreapp3.1\Form1.AssemblyInfo.vb
+Y:\BD - Base de Dados Aulas Praticas 2020-21\Aula 1\Ex1.2\Form1\Form1\obj\Debug\netcoreapp3.1\Form1.vbproj.CoreCompileInputs.cache
+Y:\BD - Base de Dados Aulas Praticas 2020-21\Aula 1\Ex1.2\Form1\Form1\bin\Debug\netcoreapp3.1\Form1.exe
+Y:\BD - Base de Dados Aulas Praticas 2020-21\Aula 1\Ex1.2\Form1\Form1\bin\Debug\netcoreapp3.1\Form1.deps.json
+Y:\BD - Base de Dados Aulas Praticas 2020-21\Aula 1\Ex1.2\Form1\Form1\bin\Debug\netcoreapp3.1\Form1.runtimeconfig.json
+Y:\BD - Base de Dados Aulas Praticas 2020-21\Aula 1\Ex1.2\Form1\Form1\bin\Debug\netcoreapp3.1\Form1.runtimeconfig.dev.json
+Y:\BD - Base de Dados Aulas Praticas 2020-21\Aula 1\Ex1.2\Form1\Form1\bin\Debug\netcoreapp3.1\Form1.dll
+Y:\BD - Base de Dados Aulas Praticas 2020-21\Aula 1\Ex1.2\Form1\Form1\bin\Debug\netcoreapp3.1\Form1.pdb
+Y:\BD - Base de Dados Aulas Praticas 2020-21\Aula 1\Ex1.2\Form1\Form1\obj\Debug\netcoreapp3.1\Form1.dll
+Y:\BD - Base de Dados Aulas Praticas 2020-21\Aula 1\Ex1.2\Form1\Form1\obj\Debug\netcoreapp3.1\Form1.pdb
+Y:\BD - Base de Dados Aulas Praticas 2020-21\Aula 1\Ex1.2\Form1\Form1\obj\Debug\netcoreapp3.1\Form1.genruntimeconfig.cache

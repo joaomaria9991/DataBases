@@ -1,0 +1,111 @@
+-- a)
+-- SELECT * FROM authors
+-- b)
+-- Select au_Fname,au_Lname,phone from authors
+-- c)
+-- Select au_Fname, au_Lname,phone from authors order by au_Fname, au_Lname
+-- d)
+-- Select au_Fname As first_name, au_Lname As last_name ,phone As telephone from authors order by au_Fname, au_Lname
+-- e)
+--Select au_Fname As first_name, au_Lname As last_name ,phone As telephone
+--	from authors
+--	where state='CA' and not au_Lname='Ringer' 
+--	order by au_Fname, au_Lname
+-- f)
+--select * from publishers
+--	where pub_name like '%Bo%'
+-- g)
+ --select distinct pub_name,titles.type
+	--from titles
+	--inner join publishers on publishers.pub_id=titles.pub_id
+	--where titles.type = 'business'
+-- h)
+--select publishers.pub_id,sum(qty) as qty from publishers
+--	inner join titles on publishers.pub_id = titles.pub_id
+--	inner join sales on sales.title_id=titles.title_id
+--	group by publishers.pub_id
+-- i)
+--select titles.title,sum(qty) as qty from publishers
+--	inner join titles on publishers.pub_id = titles.pub_id
+--	inner join sales on sales.title_id=titles.title_id
+--	group by titles.title
+
+-- j)
+--select T.title from titles as T
+--	join sales as Sa on T.title_id = Sa.title_id
+--	join stores as St on Sa.stor_id = St.stor_id
+--	where St.stor_name = 'Bookbeat'
+
+-- k)
+--select A.au_Fname,A.au_Lname from authors as A
+--	join titleauthor as Ta on Ta.au_id = A.au_id
+--	join titles as T on T.title_id = Ta.title_id
+--	group by A.au_Fname,A.au_Lname
+--	having count(T.type)>1;
+
+-- l)
+--select T.type, P.pub_id, avg(T.price) as avg_price, sum(S.qty) as total_sales  
+--from titles as T
+--	join publishers as P on P.pub_id = T.pub_id
+--	join sales as S on S.title_id = T.title_id
+--	group by T.type, P.pub_id
+
+-- m)
+--select T1.type,T1.advance from titles as T1
+--	join (select T2.type, avg(T2.advance) as avg_advance
+--			from titles as T2
+--			group by T2.type) as Av
+--	on T1.type=Av.type
+--where T1.advance > Av.avg_advance*1.5
+
+--n)
+--select T.title, A.au_Fname, A.au_Lname, T.ytd_sales * T.royalty/100 * Ta.royaltyper/100 as earnings 
+--	from titles as T join titleauthor as Ta on T.title_id = Ta.title_id
+--	join authors as A on Ta.au_id=A.au_id
+--	join sales as S on T.title_id = S.title_id
+--	group by T.title,A.au_Fname,A.au_Lname,T.ytd_sales,T.royalty,Ta.royaltyper
+
+-- o)
+--select title,ytd_sales, price*ytd_sales as facturacao, 
+--royalty*0.01*price*ytd_sales as author_money, 
+--price*ytd_sales-royalty*0.01*price*ytd_sales as publycher_money 
+--from titles
+-- p)
+
+--select ytd_sales, title, au_Lname, au_Fname, price*ytd_sales as facturacao, royalty*0.01*price*ytd_sales*royaltyper*0.1 as author_money, price*ytd_sales-royalty*0.01*price*ytd_sales as publisher_money
+--from titles as T join titleauthor as Ta on T.title_id=Ta.title_id
+--join authors on Ta.au_id=authors.au_id
+
+-- q)
+--select S.stor_id, count(T.title_id) as number_titles from stores as S
+--	join sales as Sa on Sa.stor_id=S.stor_id
+--	join titles as T on Sa.title_id=T.title_id
+--	group by S.stor_id
+--	Having count(T.title_id)=(select count(*) from titles)
+
+-- r)
+--select St.stor_name, sum(Sa.qty) as qt_sales
+--from stores as St join sales as Sa on Sa.stor_id=St.stor_id
+--group by St.stor_name
+--Having sum(qty) > (
+--	select avg(qty) as avg_store_sales
+--	from stores as Sto
+--	join sales as Sal on Sto.stor_id=Sal.stor_id
+--	group by stor_name
+--)
+
+-- s)
+--select t.title from titles as T
+--	where title_id not in( 
+--	select Sa.title_id from stores as St
+--	join sales as Sa on St.stor_id=Sa.stor_id
+--	where St.stor_name='Bookbeat')
+
+-- t)
+--select P.pub_name, St.stor_id
+--from stores as St, publishers as P
+--except
+--select P.pub_name,St.stor_id
+--from stores as St left outer join sales as Sa on St.stor_id=Sa.stor_id join titles as Ti on
+--Sa.title_id=Ti.title_id right outer join publishers as P on Ti.pub_id=P.pub_id
+--group by p.pub_name, St.stor_id

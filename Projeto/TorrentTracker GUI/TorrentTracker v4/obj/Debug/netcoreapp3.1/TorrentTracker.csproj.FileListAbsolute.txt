@@ -1,0 +1,125 @@
+C:\Users\João Maria\source\repos\TorrentTracker\bin\Debug\netcoreapp3.1\TorrentTracker.exe
+C:\Users\João Maria\source\repos\TorrentTracker\bin\Debug\netcoreapp3.1\TorrentTracker.deps.json
+C:\Users\João Maria\source\repos\TorrentTracker\bin\Debug\netcoreapp3.1\TorrentTracker.runtimeconfig.json
+C:\Users\João Maria\source\repos\TorrentTracker\bin\Debug\netcoreapp3.1\TorrentTracker.runtimeconfig.dev.json
+C:\Users\João Maria\source\repos\TorrentTracker\bin\Debug\netcoreapp3.1\TorrentTracker.dll
+C:\Users\João Maria\source\repos\TorrentTracker\bin\Debug\netcoreapp3.1\TorrentTracker.pdb
+C:\Users\João Maria\source\repos\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.csprojAssemblyReference.cache
+C:\Users\João Maria\source\repos\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.Login.resources
+C:\Users\João Maria\source\repos\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.Properties.Resources.resources
+C:\Users\João Maria\source\repos\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.csproj.GenerateResource.cache
+C:\Users\João Maria\source\repos\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.AssemblyInfoInputs.cache
+C:\Users\João Maria\source\repos\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.AssemblyInfo.cs
+C:\Users\João Maria\source\repos\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.csproj.CoreCompileInputs.cache
+C:\Users\João Maria\source\repos\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.dll
+C:\Users\João Maria\source\repos\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.pdb
+C:\Users\João Maria\source\repos\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.genruntimeconfig.cache
+C:\Users\João Maria\source\repos\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.Main.resources
+C:\Users\João Maria\source\repos\TorrentTracker\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\João Maria\source\repos\TorrentTracker\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\João Maria\source\repos\TorrentTracker\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\João Maria\source\repos\TorrentTracker\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\João Maria\source\repos\TorrentTracker\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\João Maria\source\repos\TorrentTracker\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\João Maria\source\repos\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.csproj.CopyComplete
+C:\Users\João Maria\source\repos\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.Profile.resources
+C:\Users\João Maria\source\repos\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.TorrentPage.resources
+Y:\BD - Base de Dados Aulas Praticas 2020-21\Projeto\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.csprojAssemblyReference.cache
+Y:\BD - Base de Dados Aulas Praticas 2020-21\Projeto\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.Login.resources
+Y:\BD - Base de Dados Aulas Praticas 2020-21\Projeto\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.Main.resources
+Y:\BD - Base de Dados Aulas Praticas 2020-21\Projeto\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.Profile.resources
+Y:\BD - Base de Dados Aulas Praticas 2020-21\Projeto\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.Properties.Resources.resources
+Y:\BD - Base de Dados Aulas Praticas 2020-21\Projeto\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.TorrentPage.resources
+Y:\BD - Base de Dados Aulas Praticas 2020-21\Projeto\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.csproj.GenerateResource.cache
+Y:\BD - Base de Dados Aulas Praticas 2020-21\Projeto\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.AssemblyInfoInputs.cache
+Y:\BD - Base de Dados Aulas Praticas 2020-21\Projeto\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.AssemblyInfo.cs
+Y:\BD - Base de Dados Aulas Praticas 2020-21\Projeto\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.csproj.CoreCompileInputs.cache
+Y:\BD - Base de Dados Aulas Praticas 2020-21\Projeto\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.dll
+Y:\BD - Base de Dados Aulas Praticas 2020-21\Projeto\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.pdb
+Y:\BD - Base de Dados Aulas Praticas 2020-21\Projeto\TorrentTracker\bin\Debug\netcoreapp3.1\TorrentTracker.exe
+Y:\BD - Base de Dados Aulas Praticas 2020-21\Projeto\TorrentTracker\bin\Debug\netcoreapp3.1\TorrentTracker.deps.json
+Y:\BD - Base de Dados Aulas Praticas 2020-21\Projeto\TorrentTracker\bin\Debug\netcoreapp3.1\TorrentTracker.runtimeconfig.json
+Y:\BD - Base de Dados Aulas Praticas 2020-21\Projeto\TorrentTracker\bin\Debug\netcoreapp3.1\TorrentTracker.runtimeconfig.dev.json
+Y:\BD - Base de Dados Aulas Praticas 2020-21\Projeto\TorrentTracker\bin\Debug\netcoreapp3.1\TorrentTracker.dll
+Y:\BD - Base de Dados Aulas Praticas 2020-21\Projeto\TorrentTracker\bin\Debug\netcoreapp3.1\TorrentTracker.pdb
+Y:\BD - Base de Dados Aulas Praticas 2020-21\Projeto\TorrentTracker\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+Y:\BD - Base de Dados Aulas Praticas 2020-21\Projeto\TorrentTracker\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+Y:\BD - Base de Dados Aulas Praticas 2020-21\Projeto\TorrentTracker\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+Y:\BD - Base de Dados Aulas Praticas 2020-21\Projeto\TorrentTracker\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+Y:\BD - Base de Dados Aulas Praticas 2020-21\Projeto\TorrentTracker\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Y:\BD - Base de Dados Aulas Praticas 2020-21\Projeto\TorrentTracker\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Y:\BD - Base de Dados Aulas Praticas 2020-21\Projeto\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.csproj.CopyComplete
+Y:\BD - Base de Dados Aulas Praticas 2020-21\Projeto\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.genruntimeconfig.cache
+C:\Users\João Maria\Desktop\update\Projeto\TorrentTracker GUI\TorrentTracker\bin\Debug\netcoreapp3.1\TorrentTracker.exe
+C:\Users\João Maria\Desktop\update\Projeto\TorrentTracker GUI\TorrentTracker\bin\Debug\netcoreapp3.1\TorrentTracker.deps.json
+C:\Users\João Maria\Desktop\update\Projeto\TorrentTracker GUI\TorrentTracker\bin\Debug\netcoreapp3.1\TorrentTracker.runtimeconfig.json
+C:\Users\João Maria\Desktop\update\Projeto\TorrentTracker GUI\TorrentTracker\bin\Debug\netcoreapp3.1\TorrentTracker.runtimeconfig.dev.json
+C:\Users\João Maria\Desktop\update\Projeto\TorrentTracker GUI\TorrentTracker\bin\Debug\netcoreapp3.1\TorrentTracker.dll
+C:\Users\João Maria\Desktop\update\Projeto\TorrentTracker GUI\TorrentTracker\bin\Debug\netcoreapp3.1\TorrentTracker.pdb
+C:\Users\João Maria\Desktop\update\Projeto\TorrentTracker GUI\TorrentTracker\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\João Maria\Desktop\update\Projeto\TorrentTracker GUI\TorrentTracker\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\João Maria\Desktop\update\Projeto\TorrentTracker GUI\TorrentTracker\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\João Maria\Desktop\update\Projeto\TorrentTracker GUI\TorrentTracker\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\João Maria\Desktop\update\Projeto\TorrentTracker GUI\TorrentTracker\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\João Maria\Desktop\update\Projeto\TorrentTracker GUI\TorrentTracker\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\João Maria\Desktop\update\Projeto\TorrentTracker GUI\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.csprojAssemblyReference.cache
+C:\Users\João Maria\Desktop\update\Projeto\TorrentTracker GUI\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.Login.resources
+C:\Users\João Maria\Desktop\update\Projeto\TorrentTracker GUI\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.Main.resources
+C:\Users\João Maria\Desktop\update\Projeto\TorrentTracker GUI\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.Profile.resources
+C:\Users\João Maria\Desktop\update\Projeto\TorrentTracker GUI\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.Properties.Resources.resources
+C:\Users\João Maria\Desktop\update\Projeto\TorrentTracker GUI\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.TorrentPage.resources
+C:\Users\João Maria\Desktop\update\Projeto\TorrentTracker GUI\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.csproj.GenerateResource.cache
+C:\Users\João Maria\Desktop\update\Projeto\TorrentTracker GUI\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.AssemblyInfoInputs.cache
+C:\Users\João Maria\Desktop\update\Projeto\TorrentTracker GUI\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.AssemblyInfo.cs
+C:\Users\João Maria\Desktop\update\Projeto\TorrentTracker GUI\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.csproj.CoreCompileInputs.cache
+C:\Users\João Maria\Desktop\update\Projeto\TorrentTracker GUI\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.csproj.CopyComplete
+C:\Users\João Maria\Desktop\update\Projeto\TorrentTracker GUI\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.dll
+C:\Users\João Maria\Desktop\update\Projeto\TorrentTracker GUI\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.pdb
+C:\Users\João Maria\Desktop\update\Projeto\TorrentTracker GUI\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.genruntimeconfig.cache
+C:\Users\João Maria\Desktop\update\Projeto\TorrentTracker GUI\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.TorrentSpecific.resources
+C:\Users\João Maria\Desktop\update\Projeto\TorrentTracker GUI\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.Upload.resources
+C:\Users\João Maria\Desktop\update\Projeto\TorrentTracker GUI\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.Premios.resources
+C:\Users\João Maria\Desktop\BD-2020-21-main\Projeto\TorrentTracker GUI\TorrentTracker\bin\Debug\netcoreapp3.1\TorrentTracker.exe
+C:\Users\João Maria\Desktop\BD-2020-21-main\Projeto\TorrentTracker GUI\TorrentTracker\bin\Debug\netcoreapp3.1\TorrentTracker.deps.json
+C:\Users\João Maria\Desktop\BD-2020-21-main\Projeto\TorrentTracker GUI\TorrentTracker\bin\Debug\netcoreapp3.1\TorrentTracker.runtimeconfig.json
+C:\Users\João Maria\Desktop\BD-2020-21-main\Projeto\TorrentTracker GUI\TorrentTracker\bin\Debug\netcoreapp3.1\TorrentTracker.runtimeconfig.dev.json
+C:\Users\João Maria\Desktop\BD-2020-21-main\Projeto\TorrentTracker GUI\TorrentTracker\bin\Debug\netcoreapp3.1\TorrentTracker.dll
+C:\Users\João Maria\Desktop\BD-2020-21-main\Projeto\TorrentTracker GUI\TorrentTracker\bin\Debug\netcoreapp3.1\TorrentTracker.pdb
+C:\Users\João Maria\Desktop\BD-2020-21-main\Projeto\TorrentTracker GUI\TorrentTracker\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\João Maria\Desktop\BD-2020-21-main\Projeto\TorrentTracker GUI\TorrentTracker\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\João Maria\Desktop\BD-2020-21-main\Projeto\TorrentTracker GUI\TorrentTracker\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\João Maria\Desktop\BD-2020-21-main\Projeto\TorrentTracker GUI\TorrentTracker\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\João Maria\Desktop\BD-2020-21-main\Projeto\TorrentTracker GUI\TorrentTracker\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\João Maria\Desktop\BD-2020-21-main\Projeto\TorrentTracker GUI\TorrentTracker\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\João Maria\Desktop\BD-2020-21-main\Projeto\TorrentTracker GUI\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.csprojAssemblyReference.cache
+C:\Users\João Maria\Desktop\BD-2020-21-main\Projeto\TorrentTracker GUI\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.Login.resources
+C:\Users\João Maria\Desktop\BD-2020-21-main\Projeto\TorrentTracker GUI\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.Main.resources
+C:\Users\João Maria\Desktop\BD-2020-21-main\Projeto\TorrentTracker GUI\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.Profile.resources
+C:\Users\João Maria\Desktop\BD-2020-21-main\Projeto\TorrentTracker GUI\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.Properties.Resources.resources
+C:\Users\João Maria\Desktop\BD-2020-21-main\Projeto\TorrentTracker GUI\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.TorrentPage.resources
+C:\Users\João Maria\Desktop\BD-2020-21-main\Projeto\TorrentTracker GUI\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.TorrentSpecific.resources
+C:\Users\João Maria\Desktop\BD-2020-21-main\Projeto\TorrentTracker GUI\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.Upload.resources
+C:\Users\João Maria\Desktop\BD-2020-21-main\Projeto\TorrentTracker GUI\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.csproj.GenerateResource.cache
+C:\Users\João Maria\Desktop\BD-2020-21-main\Projeto\TorrentTracker GUI\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.AssemblyInfoInputs.cache
+C:\Users\João Maria\Desktop\BD-2020-21-main\Projeto\TorrentTracker GUI\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.AssemblyInfo.cs
+C:\Users\João Maria\Desktop\BD-2020-21-main\Projeto\TorrentTracker GUI\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.csproj.CoreCompileInputs.cache
+C:\Users\João Maria\Desktop\BD-2020-21-main\Projeto\TorrentTracker GUI\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.csproj.CopyComplete
+C:\Users\João Maria\Desktop\BD-2020-21-main\Projeto\TorrentTracker GUI\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.dll
+C:\Users\João Maria\Desktop\BD-2020-21-main\Projeto\TorrentTracker GUI\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.pdb
+C:\Users\João Maria\Desktop\BD-2020-21-main\Projeto\TorrentTracker GUI\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.genruntimeconfig.cache
+C:\Users\João Maria\Desktop\BD-2020-21-main\Projeto\TorrentTracker GUI\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.Loja.resources
+C:\Users\João Maria\Desktop\BD-2020-21-main\Projeto\TorrentTracker GUI\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.ConvitesEnviados.resources
+C:\Users\João Maria\Desktop\BD-2020-21-main\Projeto\TorrentTracker GUI\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.EnviarConvite.resources
+C:\Users\João Maria\Desktop\BD-2020-21-main\Projeto\TorrentTracker GUI\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.HistoricoCompras.resources
+C:\Users\João Maria\Desktop\BD-2020-21-main\Projeto\TorrentTracker GUI\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.AdminMenu.resources
+C:\Users\João Maria\Desktop\BD-2020-21-main\Projeto\TorrentTracker GUI\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.AdminPainel.resources
+C:\Users\João Maria\Desktop\BD-2020-21-main\Projeto\TorrentTracker GUI\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.Registo.resources
+Y:\BD - Base de Dados Aulas Praticas 2020-21\Projeto\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.AdminMenu.resources
+Y:\BD - Base de Dados Aulas Praticas 2020-21\Projeto\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.AdminPainel.resources
+Y:\BD - Base de Dados Aulas Praticas 2020-21\Projeto\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.ConvitesEnviados.resources
+Y:\BD - Base de Dados Aulas Praticas 2020-21\Projeto\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.EnviarConvite.resources
+Y:\BD - Base de Dados Aulas Praticas 2020-21\Projeto\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.HistoricoCompras.resources
+Y:\BD - Base de Dados Aulas Praticas 2020-21\Projeto\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.Loja.resources
+Y:\BD - Base de Dados Aulas Praticas 2020-21\Projeto\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.Registo.resources
+Y:\BD - Base de Dados Aulas Praticas 2020-21\Projeto\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.TorrentSpecific.resources
+Y:\BD - Base de Dados Aulas Praticas 2020-21\Projeto\TorrentTracker\obj\Debug\netcoreapp3.1\TorrentTracker.Upload.resources

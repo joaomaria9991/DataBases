@@ -1,0 +1,27 @@
+
+  CREATE PROCEDURE loginProcedure @utilizador nvarchar(30), @password nvarchar(30)  
+  as  
+  select* from TorrentTracker.Utilizador 
+  where UserPassword=@password and UserNickName=@utilizador
+  
+  
+  
+  --CREATE PROCEDURE UserComents @UserNickName nvarchar(30)
+--AS
+--SELECT UserNickName, NomeContentTorrent, ConteudoComentario
+--FROM TorrentTracker.Utilizador	JOIN (TorrentTracker.Comentario JOIN TorrentTracker.ContentTorrent ON Comentario.ID_ContentTorrent=ContentTorrent.ID_ContentTorrent) ON Utilizador.ID_User=Comentario.ID_Writer
+--WHERE UserNickName=@UserNickName
+
+
+
+
+---Nao metas estes abaixo----
+
+ALTER PROCEDURE searchTorrent @NomeContentTorrent nvarchar(30)
+AS
+SELECT * FROM TorrentTracker.ContentTorrent
+WHERE NomeContentTorrent LIKE @NomeContentTorrent
+
+
+--SELECT * FROM TorrentTracker.ContentTorrent WHERE NomeContentTorrent LIKE '%Morangos%'
+

@@ -1,0 +1,58 @@
+/* Aula 05 - Alvaro Freixo 93116, Joao Machado 89132 */
+
+-- 5.1 a)
+π Fname,Minit,Lname,Ssn,Pname,Pnumber,Plocation,Dnum (project ⨝ project.Pnumber=R1.Pno (ρ R1 (employee ⨝ employee.Ssn=works_on.Essn works_on)))
+
+-- 5.1 b)
+employee ⨝ (rho Super_ssn←Ssn (π Ssn (σ Fname='Carlos' and Minit='D' and Lname='Gomes' (employee))))
+
+-- 5.1 c)
+γ Pname; sum(Hours)->Sum_hours (project ⨝ (rho Pnumber←Pno (works_on)))
+
+-- 5.1 d)
+σ Pname='Aveiro Digital' and Dno=3 and Hours>20 (employee ⨝ (rho Ssn←Essn (project ⨝ (rho Pnumber←Pno (works_on)))))
+
+-- 5.1 e)
+π Fname,Minit,Lname (σ Pno=NULL (employee ⟕ (rho Ssn←Essn (works_on))))
+
+-- 5.1 f)
+γ Dname; avg(Salary)->Avg_Slary (department ⨝ (rho Dnumber←Dno (σ Sex='F' (employee))))
+
+-- 5.1 g)
+σ N_Dependents>2 (γ Fname,Minit,Lname,Ssn; count(Dependent_name)->N_Dependents (employee ⨝ employee.Ssn=dependent.Essn (dependent)))
+
+-- 5.1 h)
+π Fname,Minit,Lname,Ssn (σ Essn=NULL (dependent ⟖ dependent.Essn=R1.Ssn (ρ R1 (employee ⨝ employee.Ssn=department.Mgr_ssn (department)))))
+
+-- 5.1 i)
+π Fname,Minit,Lname,Ssn (σ Dlocation≠'Aveiro' and Plocation='Aveiro' (employee ⨝ employee.Ssn=R3.Essn (ρ R3 (dept_location ⨝ (ρ R2 (department ⨝ department.Dnumber=R1.Dnum (ρ R1 (project ⨝ project.Pnumber=works_on.Pno works_on))))))))
+
+-- 5.2 a)
+π nif,nome,fax,endereco,condpag,tipo (σ numero=NULL (fornecedor ⟕ fornecedor.nif=encomenda.fornecedor encomenda))
+
+-- 5.2 b)
+γ codigo,nome; avg(item.unidades)->Avg_Itens (produto ⨝ produto.codigo=item.codProd item)
+
+-- 5.2 c)
+gamma avg(N_Prod)->NumMedioProdutosPorEncomenda (γ numero; count(codProd)->N_Prod (encomenda ⨝ encomenda.numero=item.numEnc item))
+
+-- 5.2 d)
+π fornecedor.nome,codigo,R2.nome,produto_unidades (fornecedor ⨝ fornecedor.nif=R2.fornecedor (ρ R2 ( (encomenda ⨝ encomenda.numero=R1.numEnc (ρ R1 (rho item_unidades←item.unidades, produto_unidades←produto.unidades (produto ⨝ produto.codigo=item.codProd item)))))))
+
+-- 5.3 a)
+π paciente.numUtente,nome,dataNasc,endereco (σ numPresc=NULL (prescricao ⟖ prescricao.numUtente=paciente.numUtente paciente))
+
+-- 5.3 b)
+γ especialidade; count(numPresc)->NumPrescricoes (prescricao ⨝ prescricao.numMedico=medico.numSNS medico)
+
+-- 5.3 c)
+γ nome; count(numPresc)->NumPrescricoes (prescricao ⨝ prescricao.farmacia=farmacia.nome farmacia)
+
+-- 5.3 d)
+π nome_farmaco,formula (σ numReg=906 AND numPresc=NULL (presc_farmaco ⟖ presc_farmaco.nomeFarmaco=R1.nome_farmaco (ρ R1 (rho nome_farmaeutica←farmaceutica.nome, nome_farmaco←farmaco.nome (farmaceutica ⨝ farmaceutica.numReg=farmaco.numRegFarm farmaco)))))
+
+-- 5.3 e)
+γ nome,nome_farmaceutica; count(nome_farmaco)->num_farmacos (farmacia ⨝ prescricao.farmacia=farmacia.nome (prescricao ⨝ prescricao.numPresc=R2.numPresc (ρ R2 rho numRegFarm1←presc_farmaco.numRegFarm (presc_farmaco ⨝ presc_farmaco.nomeFarmaco=R1.nome_farmaco (ρ R1 (rho nome_farmaceutica←farmaceutica.nome, nome_farmaco←farmaco.nome (farmaceutica ⨝ farmaceutica.numReg=farmaco.numRegFarm farmaco)))))))
+
+-- 5.3 f)
+σ num_medicos>1 (γ nome_paciente,numUtente,dataNasc,endereco; count(nome_medico)->num_medicos (ρ R1 (rho nome_medico←medico.nome, nome_paciente←paciente.nome (medico ⨝ medico.numSNS=prescricao.numMedico (prescricao ⨝ paciente)))))
